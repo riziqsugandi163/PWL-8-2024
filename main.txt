@@ -1,1 +1,1 @@
-ini adalah kalimat pertama
+ini adalah kalimat pertama yang berada di dalam branch main
